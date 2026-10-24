@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Dianov </h2>
+<h2> Hey there! I'm Bongo </h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <n></n>
@@ -39,4 +39,4 @@
 &nbsp; <a href="mailto:dianovlussac.is@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [D I A N O V](https://github.com/dianovlussac)
+⭐️ From [B O N G O](https://github.com/maximusbongo)
